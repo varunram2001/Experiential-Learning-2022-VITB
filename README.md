@@ -4,4 +4,5 @@ This repository contains my learnings and explorations at multiple organizations
 
 Bangalore:
 
+Day 1: Visit to AESI (Aeronautical Society of India)
 
