@@ -8,3 +8,5 @@ Day 1: Visit to AESI (Aeronautical Society of India)
 
 Day 2: Visit to Cranes Varsity (near ISBC Bangalore)
 
+Day 3: 
+
