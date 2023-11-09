@@ -1,4 +1,4 @@
-![image](https://github.com/varunram2001/Experiential-Learning-2022-VITB/assets/80676450/50707bb4-4ba6-4f46-8f79-e6a2c399f578)# Experiential-Learning-2022-VITB
+#Experiential-Learning-2022-VITB
 
 This repository contains my learnings and explorations at multiple organizations and industries in Bengaluru and Chennai in September 2022. This whole industrial visit based trip was organized by my University to get hands on experience on latest technologies and requirements that are important for growth in different domains of career. 
 
