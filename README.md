@@ -17,3 +17,5 @@ Day 5: Visit to Albatross Aviation Pvt. Ltd.
 
 
 Chennai:
+
+Day 1: 
