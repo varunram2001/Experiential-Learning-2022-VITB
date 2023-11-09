@@ -18,4 +18,5 @@ Day 5: Visit to Albatross Aviation Pvt. Ltd.
 
 Chennai:
 
-Day 1: 
+Day 1: Visit to Indian Space Research Organization (ISRO) – Sathish Dhawan Space Centre, Sriharikota Range (SDSC-SHAR)
+
