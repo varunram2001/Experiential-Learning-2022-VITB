@@ -20,3 +20,4 @@ Chennai:
 
 Day 1: Visit to Indian Space Research Organization (ISRO) – Sathish Dhawan Space Centre, Sriharikota Range (SDSC-SHAR)
 
+Day 2: 
