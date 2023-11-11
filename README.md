@@ -21,3 +21,5 @@ Chennai:
 Day 1: Visit to Indian Space Research Organization (ISRO) – Sathish Dhawan Space Centre, Sriharikota Range (SDSC-SHAR)
 
 Day 2: Visit to Combat Vehicle Research and Development Establishment (CVRDE), Avadi
+
+Day 3: Visit to 
