@@ -23,3 +23,5 @@ Day 1: Visit to Indian Space Research Organization (ISRO) – Sathish Dhawan Spa
 Day 2: Visit to Combat Vehicle Research and Development Establishment (CVRDE), Avadi
 
 Day 3: Visit to Vellore Institute of Technology Chennai
+
+Day 4:
