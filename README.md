@@ -25,3 +25,5 @@ Day 2: Visit to Combat Vehicle Research and Development Establishment (CVRDE), A
 Day 3: Visit to Vellore Institute of Technology Chennai
 
 Day 4: Visit to Laboratory, Vellore Institute of Technology Chennai
+
+Day 5: 
