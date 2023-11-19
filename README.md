@@ -26,4 +26,4 @@ Day 3: Visit to Vellore Institute of Technology Chennai
 
 Day 4: Visit to Laboratory, Vellore Institute of Technology Chennai
 
-Day 5: 
+Day 5: Visit to TechnoVIT event, Vellore Institute of Technology Chennai
